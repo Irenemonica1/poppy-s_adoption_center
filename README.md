@@ -1,4 +1,4 @@
-# poppy-s_adoption_center
+# poppy's_adoption_center
 Poppy's Adoption Center
 What We Do
 At Poppy's Adoption Center, we're all about finding homes for pets in need. Our main goal is to match these pets with caring individuals or families who can give them a loving forever home. We also run an online pet store where you can buy pet-related stuff.
