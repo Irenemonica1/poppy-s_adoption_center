@@ -1,0 +1,40 @@
+.home {
+    background-color: #FFDBAA;
+    height:100%;
+}
+.pet {
+    width:550px;
+    box-shadow:3px 3px 3px 3px #deb279
+}
+.carousel {
+  width:800px;
+}
+
+.star {
+    position:absolute;
+    bottom:300px;
+    left:1000px;
+  }
+  .text {
+    display:inline;
+    position:relative;
+    bottom:10px;
+    left:490px;
+    text-align:center;
+  }
+  .steps {
+    background-color: #e8c27c;
+  }
+  select {
+    padding:5px;
+    background-color: transparent;
+    border-radius: 5px;
+  }
+  .car {
+    background-color: #e0a65a;
+  }
+  .paws {
+    position:absolute;
+    top:1400px;
+    left:900px;
+  }

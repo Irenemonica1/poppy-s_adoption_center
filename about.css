@@ -1,0 +1,32 @@
+h1,h2,h3 {
+    text-align: center;
+}
+h1,h2 {
+    color:rgb(228, 103, 14);
+}
+.wagDiv {
+    width:700px;
+    height:400px;
+    margin-left: 400px;
+    margin-top: 30px;
+    background-color: lightsalmon;
+    color:white;
+    border-radius:20px;
+}
+p {
+    line-height: 2;
+    font-weight:bold;
+    padding-left:10px;
+}
+.wagDiv1 {
+    width:700px;
+    height:400px;
+    margin-left: 100px;
+    margin-top: 30px;
+    background-color: lightsalmon;
+    color:white;
+    border-radius:20px;
+}
+body {
+    background-color: bisque;
+}
